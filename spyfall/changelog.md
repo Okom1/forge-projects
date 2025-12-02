@@ -1,0 +1,3 @@
+# Changelog
+
+Spyfall changelog.
