@@ -7,8 +7,6 @@ assignees: Okom1
 
 ---
 
-# Issue Title
-
 Issue description
 
 (Attach issue media here)
