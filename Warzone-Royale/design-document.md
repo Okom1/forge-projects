@@ -1,6 +1,6 @@
 # Warzone Royale Design Document
 
-Warzone Royale is a battle royale mode where players fight in teams to scavenge loot and aim to be the last squad standing.
+A Halo Infinite Battle Royale mode where players fight in teams to scavenge loot, upgrade their gear, and aim to be the last squad standing. Inspired by Splitgate: Arena Reloaded's "Arena Royale" mode.
 
 Players start with no weapons, and need to find their loadout from loot boxes scattered around the map. Loot boces also contain "Armor" in the form of Custom Equipment, which can be stacked and activated to give the player a higher temporary damage resistance, until depleted.
 
@@ -88,6 +88,14 @@ When players die, they can be revived or will automatically respawn after an inc
   - Cost is relatively low
 - Weapon Upgrades allow the player to upgrade their equipped weapon to a higher tier variant
   - Cost is proportional to how good the higher tier variant is
+
+### Shrinking zone
+
+- After some time has passed, a large boundary will appear around the map that will start shrinking towards its center point
+- The shrinking zone will shrink in steps, all of which will be communicated when the steps engage
+- Players outside the shrinking zone will take continuous damage
+- After the shrinking zone reaches its smallest size, it will start moving around the map
+  - This prevents the battles from stalling if players are on multiple vertical levels
 
 ### Spectating
 
