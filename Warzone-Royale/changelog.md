@@ -1,0 +1,3 @@
+# Changelog
+
+Warzone Royale changelog.
