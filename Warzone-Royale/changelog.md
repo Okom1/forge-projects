@@ -7,4 +7,4 @@ Warzone Royale changelog.
 - Initial build
 - Loot crate distribution script
 - Every Tick player respawn unblocking
-- 0.1.0 is a profound term in Halo Infinite
+- 0.1.0 is a profane term in Halo Infinite
