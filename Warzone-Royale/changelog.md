@@ -62,3 +62,15 @@ Warzone Royale changelog.
 ### 0.6.1
 
 - Added vehile removal every second
+
+### 0.7.0
+
+- Added loot box drops based on tier of box
+
+### 0.8.0
+
+- Added extra armor feature
+
+### 0.8.1
+
+- Fixed issue with Custom Equipment A staying in the starting player's inventory at Gameplay Start
