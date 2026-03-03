@@ -74,3 +74,7 @@ Warzone Royale changelog.
 ### 0.8.1
 
 - Fixed issue with Custom Equipment A staying in the starting player's inventory at Gameplay Start
+
+### 0.8.2
+
+- Added points display per player and did initial loot box points grant balancing
