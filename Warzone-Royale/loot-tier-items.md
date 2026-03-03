@@ -21,7 +21,7 @@ Weapons
 - [115] VK78 Commando
 
 Points
-- 0.5
+- 0.1
 
 ## Tier 2
 
@@ -45,7 +45,7 @@ Grenades
 Loadout Ammo Refill (7%)
 
 Points
-- 0.5
+- 0.25
 
 ## Tier 3
 
@@ -81,7 +81,7 @@ Armor
 Loadout Ammo Refill (7%)
 
 Points
-- 1
+- 0.5
 
 ## Tier 4
 
@@ -115,7 +115,7 @@ Armor
 Loadout Ammo Refill (7%)
 
 Points
-- 2
+- 1
 
 ## Tier 5
 
@@ -161,4 +161,4 @@ Weapons
 - [123] Plasma Cannon
 
 Points
-- 8
+- 6
