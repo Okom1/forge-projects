@@ -20,12 +20,6 @@ Weapons
 - [108] Pulse Carbine
 - [115] VK78 Commando
 
-Grenades
-- [1] Frag Grenade (1x)
-
-Armor
-- [11] Custom Equipment A (1x)
-
 Points
 - 0.5
 
@@ -46,10 +40,9 @@ Weapons
 - [104] Mangler
 
 Grenades
-- [3] Spike Grenade (1x)
+- [1] Frag Grenade (1x)
 
-Armor
-- [11] Custom Equipment A (1x)
+Loadout Ammo Refill (7%)
 
 Points
 - 0.5
@@ -80,11 +73,12 @@ Weapons
 - [117] Mutilator
 
 Grenades
-- [1] Frag Grenade (1x)
-- [2] Plasma Grenade (1x)
+- [3] Spike Grenade (1x)
 
 Armor
-- [11] Custom Equipment A (2x)
+- [11] Custom Equipment A (1x)
+
+Loadout Ammo Refill (7%)
 
 Points
 - 1
@@ -113,11 +107,12 @@ Weapons
 - [83] Unbound Plasma Pistol
 
 Grenades
-- [1] Frag Grenade (1x)
-- [4] Dynamo Grenade (1x)
+- [2] Plasma Grenade (1x)
 
 Armor
-- [11] Custom Equipment A (3x)
+- [11] Custom Equipment A (2x)
+
+Loadout Ammo Refill (7%)
 
 Points
 - 2
