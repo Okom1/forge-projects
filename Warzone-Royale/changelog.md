@@ -78,3 +78,13 @@ Warzone Royale changelog.
 ### 0.8.2
 
 - Added points display per player and did initial loot box points grant balancing
+
+### 0.8.3
+
+- Code cleanup
+- Fixed equipment despawn loop being 1 second
+
+### 0.8.4
+
+- Implemented Custom Equipment gathering without the need for player death—requires some equipment placement on the level to work
+- Fixed weapon despawn time from loot box dropped weapons not being 20 s for base weapons (cloned weapons)
