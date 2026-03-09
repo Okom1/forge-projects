@@ -88,3 +88,8 @@ Warzone Royale changelog.
 
 - Implemented Custom Equipment gathering without the need for player death—requires some equipment placement on the level to work
 - Fixed weapon despawn time from loot box dropped weapons not being 20 s for base weapons (cloned weapons)
+
+### 0.9.0
+
+- Changed loot boxes to be interactable power sockets
+- Adjuster loot pool to only have base and legendary weapons so players don't get confused by the weapon icon of the Warzone sandbox weapons
