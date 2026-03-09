@@ -5,13 +5,6 @@ Items that can be obtained from different tiers of loot boxes.
 ## Tier 1
 
 Weapons
-- [10] ONI Commando
-- [42] ONI Assault Rifle
-- [45] Kig-Yar Carbine
-- [51] Seeking Hydra
-- [54] Duelist Plasma Pistol
-- [55] Brute Carbine
-- [58] ONI Battle Rifle
 - [71] MA40 Longshot
 - [101] MA40 AR
 - [105] Mk50 Sidekick
@@ -26,8 +19,6 @@ Points
 ## Tier 2
 
 Weapons
-- [3] Hardlight Assault Rifle
-- [56] Poisoned Pulse Carbine
 - [63] Backdraft Cindershot
 - [68] Elite Bloodblade
 - [75] Rapidfire Pulse Carbine
@@ -50,16 +41,6 @@ Points
 ## Tier 3
 
 Weapons
-- [1] Marksman Sidekick
-- [7] ONI Bandit
-- [9] Hardlight Commando
-- [11] Rush Bulldog
-- [14] Hardlight Plasma Pistol
-- [18] Eayn Stalker Rifle
-- [21] Decaying Charge
-- [24] Focus Beam
-- [28] ONI Avenger
-- [59] Burst-Fire Bandit
 - [64] Calcine Disruptor
 - [69] Impact Commando
 - [74] Pursuit Hydra
@@ -86,18 +67,6 @@ Points
 ## Tier 4
 
 Weapons
-- [2] Key Of Speed
-- [4] Hardlight Avenger
-- [5] Hardlight Battle Rifle
-- [12] Valor Of Dinh
-- [15] Overloaded Pulse Carbine
-- [16] Pulse Wave
-- [19] Zealot Ravager
-- [22] Blinding Payload
-- [23] Tripple Threat
-- [35] Rogue Juggernaut
-- [52] Siege Bandit
-- [53] Cure Of The Haunted
 - [62] BR75 Breacher
 - [65] Convergence Bulldog
 - [67] Duelist Energy Sword
