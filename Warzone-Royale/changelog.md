@@ -97,3 +97,8 @@ Warzone Royale changelog.
 ### 0.10.0
 
 - Changed base mode to Firefight:Custom due to a better UI and no excess misleading UI communication
+
+### 0.10.1
+
+- Adjusted vehicle deletion script to only fire once On Gameplay Start instead of every second since the Firefight:Custom mode automatically stops vehicle spawner respawns
+- Fixed armor not resetting to 0 on death which caused an invulnerability issue
