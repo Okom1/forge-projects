@@ -102,3 +102,10 @@ Warzone Royale changelog.
 
 - Adjusted vehicle deletion script to only fire once On Gameplay Start instead of every second since the Firefight:Custom mode automatically stops vehicle spawner respawns
 - Fixed armor not resetting to 0 on death which caused an invulnerability issue
+
+### 0.11.0
+
+- Implemented initial radial menu with options to purchase Ability Boosts, Weapon upgrades and Equipment
+- Made kills give points to all team members
+- Added a temporary static respawn time of 8 s
+- Adjusted point grant amounts from loot boxes
