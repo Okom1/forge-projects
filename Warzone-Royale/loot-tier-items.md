@@ -14,13 +14,12 @@ Weapons
 - [115] VK78 Commando
 
 Points
-- 0.1
+- 0.25
 
 ## Tier 2
 
 Weapons
 - [63] Backdraft Cindershot
-- [68] Elite Bloodblade
 - [75] Rapidfire Pulse Carbine
 - [91] BR75
 - [93] CQS48 Bulldog
@@ -36,7 +35,7 @@ Grenades
 Loadout Ammo Refill (7%)
 
 Points
-- 0.25
+- 0.75
 
 ## Tier 3
 
@@ -49,7 +48,6 @@ Weapons
 - [80] Scatterbound Heatwave
 - [92] Bandit Evo
 - [94] Cindershot
-- [96] Energy Sword
 - [112] Shock Rifle
 - [117] Mutilator
 
@@ -62,14 +60,13 @@ Armor
 Loadout Ammo Refill (7%)
 
 Points
-- 0.5
+- 1.25
 
 ## Tier 4
 
 Weapons
 - [62] BR75 Breacher
 - [65] Convergence Bulldog
-- [67] Duelist Energy Sword
 - [72] Pinpoint Needler
 - [73] Purging Shock Rifle
 - [82] Striker Sidekick
@@ -84,7 +81,7 @@ Armor
 Loadout Ammo Refill (7%)
 
 Points
-- 1
+- 2
 
 ## Tier 5
 
@@ -110,6 +107,7 @@ Weapons
 - [50] Gamma Shot
 - [60] SPNKr x
 - [61] Arcane Sentinel Beam
+- [67] Duelist Energy Sword
 - [70] M41 Tracker
 - [74] Pursuit Hydra
 - [76] Ravager Rebound
