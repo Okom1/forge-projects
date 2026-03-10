@@ -93,3 +93,7 @@ Warzone Royale changelog.
 
 - Changed loot boxes to be interactable power sockets
 - Adjuster loot pool to only have base and legendary weapons so players don't get confused by the weapon icon of the Warzone sandbox weapons
+
+### 0.10.0
+
+- Changed base mode to Firefight:Custom due to a better UI and no excess misleading UI communication
