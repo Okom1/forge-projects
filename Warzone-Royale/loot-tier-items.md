@@ -42,7 +42,6 @@ Points
 Weapons
 - [64] Calcine Disruptor
 - [69] Impact Commando
-- [74] Pursuit Hydra
 - [75] Rapidfire Pulse Carbine
 - [77] Riven Mangler
 - [80] Scatterbound Heatwave
