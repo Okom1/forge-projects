@@ -10,8 +10,7 @@ When players die, they can be revived or will automatically respawn after an inc
 
 ## Game Mode
 
-- Minigame or Elimination
-  - Must support revive orbs
+- Firefight:Custom
   - Must support teams
 - Forge Mode; scripted logic
 - 4–24 Players
