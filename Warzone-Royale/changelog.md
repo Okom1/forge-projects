@@ -109,3 +109,11 @@ Warzone Royale changelog.
 - Made kills give points to all team members
 - Added a temporary static respawn time of 8 s
 - Adjusted point grant amounts from loot boxes
+
+### 0.11.1
+
+- Forced rotation of loot boxes to be 0,45,(variable) so they always face up
+- Removed Pursuit Hydra from Tier 3 loot box cause it can be upgraded to a tier 7+ variant
+- Removed weapon variants with custom projectiles from weapon upgrade options that would require on-level objects to function
+- Fixed temporary respawn time only affecting the first life
+- Fixed issues with fists weapon replacement when spawning with a weapon from the death screen
