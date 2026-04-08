@@ -117,3 +117,14 @@ Warzone Royale changelog.
 - Removed weapon variants with custom projectiles from weapon upgrade options that would require on-level objects to function
 - Fixed temporary respawn time only affecting the first life
 - Fixed issues with fists weapon replacement when spawning with a weapon from the death screen
+
+### 0.12.0
+
+- Made loot boxes open via player proximity
+
+### 0.12.1
+
+- Made Ability Boosts reduce player points upon purchase
+- Made players initially spawn next to the first player on their team
+- Fixed weapon grants past value 84 being offset by +1 in Forge due to fists weapon type being empty
+- [11] Armor cost: 2 → 3
