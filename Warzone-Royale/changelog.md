@@ -128,3 +128,24 @@ Warzone Royale changelog.
 - Made players initially spawn next to the first player on their team
 - Fixed weapon grants past value 84 being offset by +1 in Forge due to fists weapon type being empty
 - [11] Armor cost: 2 → 3
+
+### 0.12.2
+
+- Implemented better system to remove vehicles every second, including mounted turrets
+- Changed base mode to Arena:Slayer
+
+### 0.12.3
+
+- Changed vehicle deletion from every second to every 0.10 seconds
+
+### 0.13.0
+
+- Changed Custom Equipment A gathering to be dropped from an Eagle team bot who dies at the start of each round
+
+### 0.14.0
+
+- Added buddy spawning functionality
+
+### 0.14.1
+
+- Added team spectating radial and functionality
