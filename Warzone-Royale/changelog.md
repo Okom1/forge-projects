@@ -149,3 +149,14 @@ Warzone Royale changelog.
 ### 0.14.1
 
 - Added team spectating radial and functionality
+
+### 0.15.0
+
+- Added equipment dropping functionality
+- Made your previously held equipment automatically drop when buying a new equipment
+- Made all spawn points on level be Neutral team and Spawn Order 0
+- Added deletion of loose weapons during box distribution
+- Added more danger factors to overcome for buddy spawning to work: Proximity to enemies who have line of sight, and buddy firing their weapon
+- Fixed issues spawning at 0,0,0 at the start of the match and dying immediately
+- Improved spawn queue so it retires to spawn you if the first spawn attempt didn't work. This can happen if more than one player is trying to spawn on a buddy at the same time
+- Added creation of new Spawn Order 0, Neutral team spawn points at the locations of every existing spawn point to ensure players on all teams can spawn on the map; some creators may have assigned some spawns to specific teams
