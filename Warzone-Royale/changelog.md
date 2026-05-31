@@ -158,5 +158,10 @@ Warzone Royale changelog.
 - Added deletion of loose weapons during box distribution
 - Added more danger factors to overcome for buddy spawning to work: Proximity to enemies who have line of sight, and buddy firing their weapon
 - Fixed issues spawning at 0,0,0 at the start of the match and dying immediately
-- Improved spawn queue so it retires to spawn you if the first spawn attempt didn't work. This can happen if more than one player is trying to spawn on a buddy at the same time
+- Improved spawn queue so it retries to spawn you if the first spawn attempt didn't work. This can happen if more than one player is trying to spawn on a buddy at the same time
 - Added creation of new Spawn Order 0, Neutral team spawn points at the locations of every existing spawn point to ensure players on all teams can spawn on the map; some creators may have assigned some spawns to specific teams
+
+### 0.15.1
+
+- Added game ending logic and communication when only one team remaining
+- Improved communication and radial displays when your team gets eliminated
