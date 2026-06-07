@@ -13,9 +13,6 @@ Weapons
 - [108] Pulse Carbine
 - [115] VK78 Commando
 
-Points
-- 0.25
-
 ## Tier 2
 
 Weapons
