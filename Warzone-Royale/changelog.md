@@ -165,3 +165,33 @@ Warzone Royale changelog.
 
 - Added game ending logic and communication when only one team remaining
 - Improved communication and radial displays when your team gets eliminated
+
+### 0.15.2
+
+- Added gathering of the most evenly spaced spawn points which are used to teleport players at those positions at the start of the match. The amount of positions is determined by the amount of teams present 3 seconds into the round
+
+### 0.15.3
+
+- Added a bot pickup ambition on nearby weapons spawned from loot boxes so bots would pick up weapons more
+- Made picking up Fusion Coils while holding only Fists not remove the Fists
+
+### 0.15.4
+
+- Adjusted bot weapon pickup ambition radius from 30 to 50
+- Updated modules to Sandbox 1.10.0 and Radial 1.6.0
+- Fixed issue with dummy bots not spawning in at the beginning of the game, leading to dummy equipment and armor equipment not being gathered
+- Made players unharmable before gameplay begins to prevent them from dying from level-based causes like auto turrets during the intro sequence 
+
+### 0.16.0
+
+- Added varying respawn time per team that increases by one second if a teammate dies and decreases by one second if an enemy is killed. Minimum respawn time is always 5 seconds.
+
+### 0.16.1
+
+- Added Power Seed distribution in the box distribution logic that act as the main way of gathering points. Picking up a Power Seed grants points to the player.
+- Made players lose half of their points upon death, and drop said points as Power Seeds on their death location
+- Added ability to bypass Buddy Spawn danger checks by healing the player with a Repair Field
+- Modified player LoS danger detection logic to also trigger for players who are detected by a Threat Sensor or Threat Seeker
+- Modified player LoS danger detection logic to cut if the player is inside a Shroud Screen
+- Adjusted equipment pickup prevention time after dropping equipment from 0.50 → 1.00 as the dropped equipment was being picked up too easily
+- Added periodic loot drops that last for 60 seconds. The loot drops drop the highest tier items

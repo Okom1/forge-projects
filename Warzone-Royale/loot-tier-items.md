@@ -34,8 +34,8 @@ Grenades
 
 Loadout Ammo Refill (7%)
 
-Points
-- 0.75
+Power Seeds
+- 1
 
 ## Tier 3
 
@@ -58,8 +58,8 @@ Armor
 
 Loadout Ammo Refill (7%)
 
-Points
-- 1.25
+Power Seeds
+- 2
 
 ## Tier 4
 
@@ -79,8 +79,8 @@ Armor
 
 Loadout Ammo Refill (7%)
 
-Points
-- 2
+Power Seeds
+- 3
 
 ## Tier 5
 
@@ -126,5 +126,5 @@ Weapons
 - [122] Scrap Cannon
 - [123] Plasma Cannon
 
-Points
-- 6
+Power Seeds
+- 12
