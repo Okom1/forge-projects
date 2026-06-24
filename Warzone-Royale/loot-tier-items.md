@@ -124,4 +124,26 @@ Weapons
 - [123] Plasma Cannon
 
 Power Seeds
+- 6
+
+## Zone Capture
+
+Grenades
+- [4] Dynamo Grenade (4x)
+
+Armor
+- [11] Custom Equipment A (4x)
+
+Power Seeds
+- 12
+
+## Bomb timer
+
+Weapons
+- Tier 3 weapon (4x)
+
+Armor
+- [11] Custom Equipment A (4x)
+
+Power Seeds
 - 12

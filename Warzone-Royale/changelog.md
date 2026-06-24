@@ -195,3 +195,17 @@ Warzone Royale changelog.
 - Modified player LoS danger detection logic to cut if the player is inside a Shroud Screen
 - Adjusted equipment pickup prevention time after dropping equipment from 0.50 → 1.00 as the dropped equipment was being picked up too easily
 - Added periodic loot drops that last for 60 seconds. The loot drops drop the highest tier items
+
+### 0.16.2
+
+- Added Zone Capture event that grants armor, Dynamo Grenades and Points upon capture
+- Excluded Power Seed pickup from Fists weapon removal
+- Added filter that removes all positions with Z < 1 from filteredObjectPositions list
+
+### 0.17.0
+
+- Added splash message for team that kills the last remaining enemy of an enemy team
+- Fixed winning team player names in killfeed sometimes showing duplicate names after killfeed shows more entries
+- Added small message for players about points being awarded when they pick up Power Seeds or when them or a teammate kills an enemy
+- Fixed Plasma Cannon variants not populating the weapon upgrade radial correctly
+- Added Bomb objective; guard the Bomb until the timer runs out, resulting in an explosion that damages nearby players, but also grants items
