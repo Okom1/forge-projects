@@ -12,3 +12,7 @@ Laser Sight changelog.
 
 - Some mode settings updated
 - Metadata added
+
+### 0.3.0
+
+- Added aim prediction feature so the aim raycast is more accurate to the player's reticle position
