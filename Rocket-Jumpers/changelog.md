@@ -14,3 +14,9 @@ Rocket Jumpers changelog.
 - Secondary weapon changed to S7 Sniper
 - Melee damage increased to 180%
 - Some misc changes and bug fixes
+
+### 0.5.0
+
+- Adjusted weapon despawn time from 40 → 1 s
+- Added infinite ammo for all weapons
+- Removed power weapon and equipment pickups from maps
