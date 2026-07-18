@@ -16,3 +16,7 @@ Laser Sight changelog.
 ### 0.3.0
 
 - Added aim prediction feature so the aim raycast is more accurate to the player's reticle position
+
+# 0.3.1
+
+- Removed white circle nav marker as it was too distracting
