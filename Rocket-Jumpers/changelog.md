@@ -20,3 +20,7 @@ Rocket Jumpers changelog.
 - Adjusted weapon despawn time from 40 → 1 s
 - Added infinite ammo for all weapons
 - Removed power weapon and equipment pickups from maps
+
+### 0.5.1
+
+- Adjusted weapon switch speed from 1.00 → 3.00
