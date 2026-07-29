@@ -14,3 +14,7 @@ Thrusters changelog.
 - Fixed no damage application via script due to 0.00 damage modifier trait being active
 - Adjusted kill detection boundary from 5.0 → 5.5 units
 - Removed equipment and grenade placements from maps
+
+### 0.3.0
+
+- Made the act of using the thruster immediately activate the thruster killing boundary instead of just from reaching a velocity of 50 u/s
