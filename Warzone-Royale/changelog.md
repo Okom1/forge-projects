@@ -209,3 +209,7 @@ Warzone Royale changelog.
 - Added small message for players about points being awarded when they pick up Power Seeds or when them or a teammate kills an enemy
 - Fixed Plasma Cannon variants not populating the weapon upgrade radial correctly
 - Added Bomb objective; guard the Bomb until the timer runs out, resulting in an explosion that damages nearby players, but also grants items
+
+### 0.18.0
+
+- Made Ability Boost purchases retain after death, and be stackable
