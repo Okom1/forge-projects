@@ -17,3 +17,7 @@ The Floor is Lava changelog.
 - Adjusted player gravity from 1.00 → 0.30
 - Changed starting weapons from Ravager Rebound & Mangler → Diminisher of Hope
 - Removed on-level power equipment and power weapon pickups
+
+### 0.4.0
+
+- Added soft kill volumes that follow players so they counteract all soft kills on maps
