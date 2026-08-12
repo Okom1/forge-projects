@@ -18,3 +18,8 @@ Thrusters changelog.
 ### 0.3.0
 
 - Made the act of using the thruster immediately activate the thruster killing boundary instead of just from reaching a velocity of 50 u/s
+
+### 0.4.0
+
+- Removed unnecessary code
+- Made thrusting kill effect apply to AI as well
