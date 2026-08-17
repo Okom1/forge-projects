@@ -213,3 +213,12 @@ Warzone Royale changelog.
 ### 0.18.0
 
 - Made Ability Boost purchases retain after death, and be stackable
+
+### 0.19.0
+
+- Added UI communication for players who have a buddy spawning on them
+- Added UI and audio communication about the goal of the game mode
+- Changed [65] Convergence Bulldog and [83] Unbound Plasma Pistol from tier 4 → 5 loot box
+- Increased point grant from Power Seed pickup from 0.4 → 1.0
+- Made Overshield VFX show for a brief moment when activating Armor to communicate to other players that armor is being applied
+- Made tier 1, 2 and 3 loot boxes respawn periodically

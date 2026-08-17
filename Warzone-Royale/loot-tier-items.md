@@ -62,11 +62,9 @@ Power Seeds
 
 Weapons
 - [62] BR75 Breacher
-- [65] Convergence Bulldog
 - [72] Pinpoint Needler
 - [73] Purging Shock Rifle
 - [82] Striker Sidekick
-- [83] Unbound Plasma Pistol
 
 Grenades
 - [2] Plasma Grenade (1x)
@@ -103,12 +101,14 @@ Weapons
 - [50] Gamma Shot
 - [60] SPNKr x
 - [61] Arcane Sentinel Beam
+- [65] Convergence Bulldog
 - [67] Duelist Energy Sword
 - [70] M41 Tracker
 - [74] Pursuit Hydra
 - [76] Ravager Rebound
 - [79] S7 Flexfire Sniper
 - [81] Stalker Rifle Ultra
+- [83] Unbound Plasma Pistol
 - [84] Volatile Skewer
 - [100] M41 SPNKr
 - [103] MLRS-2 Hydra
