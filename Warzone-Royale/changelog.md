@@ -222,3 +222,10 @@ Warzone Royale changelog.
 - Increased point grant from Power Seed pickup from 0.4 → 1.0
 - Made Overshield VFX show for a brief moment when activating Armor to communicate to other players that armor is being applied
 - Made tier 1, 2 and 3 loot boxes respawn periodically
+
+### 0.20.0
+
+- Added communication of how long you are holing up a buddy spawn via docker nav marker progress
+- Increased points per kill from 0.4 → 1.0
+- Removed point drop on death
+- Added debug to show buddy spawn point positions per player
