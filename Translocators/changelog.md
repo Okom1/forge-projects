@@ -17,3 +17,11 @@ Translocators changelog.
 - Adjusted nav marker assignment logic per player index to not account for new join-in-progress players as a debug measure for nav marker issues
 - Changed the way the translocator teleport is destroed from it being deleted to damaging by 10,000 health, so the destruction causes a native animation instead of just disappearing
 - Adjusted sound of manually destroying your own translocator via custom input
+
+### 0.3.0
+
+- Updated nav marker logic to potentially fix player index assignment issues
+- Added ability to launch units with the Gravity Hammer
+- Made custom input not emit activation sound if used when no translocator was present for the player
+- Added deletions of weapons on death
+- Fixed friendly translocator nav markers showing for the enemy team
