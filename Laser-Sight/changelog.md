@@ -27,3 +27,8 @@ Laser Sight changelog.
 - Made Fusion Coils damageable via line of sight
 - Changed starting weapon in mode settings from Needler to Energy Sword
 - Adjusted bot damage per tick from 0.66 → 1.00
+
+### 0.5.0
+
+- Changed dynamic raycast logic to use a native Player Look Dynamic Raycast node to see if it's more accurate than the custom method
+- Adjusted nav marker player index updating logic
