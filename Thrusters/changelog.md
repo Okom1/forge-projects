@@ -23,3 +23,8 @@ Thrusters changelog.
 
 - Removed unnecessary code
 - Made thrusting kill effect apply to AI as well
+
+### 0.5.0
+
+- Fixed sandwich holder traits not resetting on death → had no fast Thruster cooldown on next life with regular loadout
+- Made base traits not remove on death and reapply on respawn; they retain througout the round
